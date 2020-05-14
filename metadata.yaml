@@ -1,11 +1,16 @@
 _repo: Interesting-Incidents-connected-with-the-Life-of-George-Bickers-Originally-a-Farmer-s-Parish-__62060
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62060-h/images/cover.jpg
 creator:
   author:
     agent_name: Bickers, George
     gutenberg_agent_id: '51754'
     url: http://www.gutenberg.org/2009/agents/51754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62060#Interesting-Incidents-connected-with-the-Life-of-George-Bickers-Originally-a-Farmer-s-Parish-_
 gutenberg_issued: '2020-05-08'
 gutenberg_type: Text
 identifiers:
